@@ -1,0 +1,29 @@
+_repo: Patience_45564
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45564-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Alexander, James W. (James Waddel)
+    aliases:
+    - Alexander, James Waddell
+    - Alexander, James Waddel
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '42065'
+    url: http://www.gutenberg.org/2009/agents/42065
+description: ''
+gutenberg_issued: '2014-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Patience -- Religious aspects -- Christianity'
+- !lcc 'BV'
+title: Patience
+url: http://www.gutenberg.org/ebooks/45564
